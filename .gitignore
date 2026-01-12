@@ -2,9 +2,10 @@
 *.o
 *.out
 *.exe
-
-# Build outputs
 toycc
+
+# IDE files
+.idea/
 
 # macOS files
 .DS_Store
