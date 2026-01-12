@@ -1,0 +1,11 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+
+# Build outputs
+toycc
+
+# macOS files
+.DS_Store
+**/.DS_Store
