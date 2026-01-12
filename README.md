@@ -65,17 +65,15 @@ Building a compiler provides insight into how vulnerabilities can emerge from
 parsing, memory layout, and control-flow generation. This project strengthens
 understanding of:
 ``` markdown
-Language parsing and AST construction
-
-Stack-based memory management
-
-Control-flow translation
-
-How undefined behavior and memory errors can propagate to assembly
+-Language parsing and AST construction
+-Stack-based memory management
+-Control-flow translation
+-How undefined behavior and memory errors can propagate to assembly
 ```
 Author
 
 **Cade Fair**
 
 Computer Science Student — San Diego State University
+
 Cybersecurity & Systems Programming Focus
